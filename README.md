@@ -29,5 +29,6 @@ run.py containse code for testing the model and its performance. This output vid
 can be verified from code itself.
 
 # Sample Video
-
+<p align='center'>
 ![](ezgif.com-video-to-gif.gif)
+</p>
