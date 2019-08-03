@@ -27,3 +27,7 @@ It took me around 15-16 hours of training while I was trying for different hyper
 # Testing
 run.py containse code for testing the model and its performance. This output video is on testing data (not on training data) which
 can be verified from code itself.
+
+# Sample Video
+
+![](ezgif.com-video-to-gif.gif)
