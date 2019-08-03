@@ -29,6 +29,6 @@ run.py containse code for testing the model and its performance. This output vid
 can be verified from code itself.
 
 # Sample Video
-<p align='center'>
-![](ezgif.com-video-to-gif.gif)
+<p align="center">
+<img src="https://github.com/1999vasu/Self_driving_car/blob/master/ezgif.com-video-to-gif.gif">
 </p>
